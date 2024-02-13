@@ -43,6 +43,11 @@ The :doc:`ssh kitten <kittens/ssh>` is redesigned with powerful new features:
 Detailed list of changes
 -------------------------------------
 
+0.33.0 [future]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Graphics protocol: Add a new delete mode for deleting images whose ids fall within a range. Useful for bulk deletion (:iss:`7080`)
+
 0.32.2 [2023-02-12]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
